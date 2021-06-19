@@ -1,0 +1,10 @@
+nombre = 'Yaritza'
+apellido = 'Ovalle'
+sexo = 'Femenino'
+edad = 24
+ciudad_vive = 'Medellín'
+Estatura = 1.64
+x = False
+hijos = 0
+estudio = 'profesional'
+a = True
